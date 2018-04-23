@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/main/java=UTF-8
+encoding//src/main/resources=UTF-8
+encoding//src/main/webapp/WEB-INF/jsp/admin/candidats.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/jsp/candidat/documents.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/jsp/candidat/mescandidatures.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/jsp/employee/candidats.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/jsp/employee/candidatures.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/jsp/respo/candidatures.jsp=UTF-8
+encoding//src/test/java=UTF-8
+encoding/<project>=UTF-8
